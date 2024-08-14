@@ -1,7 +1,6 @@
 # Pizza Sales Analysis Report
 
 Welcome to my Pizza Sales Analysis project, that show case my data analysis skills using Excel and MySQL. This project uncover insights and trends that can help in making informed business decisions for boosting business revenue. 
-![Alt text](images/data.png)
 
 ## Description
 Following steps have been taken to complete the project:
@@ -17,6 +16,8 @@ Imported the sales data into Excel, ensured it is clean, and structured for anal
                                     https://mavenanalytics.io/data-playground?page=6&pageSize=5
                                                              
 After downloading data set from the above link, I wrote queries in MySQL workbench and obtained the results, which I could later match with my Excel visualizations to authenticate the results.
+
+![Alt text](images/data.png)
                                                              
 
 
