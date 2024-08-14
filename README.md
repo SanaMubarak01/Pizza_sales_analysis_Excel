@@ -15,9 +15,9 @@ Following steps have been taken to complete the project:
 Imported the sales data into Excel, ensured it is clean, and structured for analysis.
                                     https://mavenanalytics.io/data-playground?page=6&pageSize=5
                                                              
-After downloading data set from the above link, I wrote queries in MySQL workbench and obtained the results, which I could later match with my Excel visualizations to authenticate the results.
+After downloading data set from the above link, I wrote queries in MySQL workbench and obtained the results, which I could later match with my Excel visualizations to authenticate the results. In order to view MYSQL queries, their results and the visulaizations in Excel [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
 
-![Alt text](images/data.png)
+![data](images/data.png)
                                                              
 
 
@@ -29,7 +29,7 @@ Checked for data types of columns and the header names of each table. I applied 
 
 ## 3.	Data Modeling:
 After loading data, built relationships between tables showing cardinality one to many amongst tables.
-<img src="images/data_model.png" alt="Example Image" width="600"/>
+<img src="images/data_model.png" alt="data_model" width="600"/>
 
 ## 4.	Exploratory Data Analysis EDA:	
 
@@ -57,30 +57,30 @@ Quarter: To examine seasonal variation of orders.
 ## 6.	Pivot Tables:
 For KPIs:
 
-![Alt text](images/KPI.png)
+![KPI](images/KPI.png)
 
 For charts:
 
-<img src="images/charts_pivot_tables.png" alt="Example Image" width="600"/>
+<img src="images/charts_pivot_tables.png" alt="charts_pivot_tables" width="600"/>
 
 
 ##     Visualizations:
 
 Pie Chart:	For viewing percentage contribution of Pizza sizes and categories to total revenue.
 
-<img src="images/pie_charts.png" alt="Example Image" width="400"/>
+<img src="images/pie_charts.png" alt="pie_charts" width="400"/>
 
 Line Chart:	For understanding the hourly sales trends.
 
-<img src="images/line_chart.png" alt="Example Image" width="200"/>
+<img src="images/line_chart.png" alt="line_chart" width="200"/>
 
 Clustered Bar Chart: 	To identify monthly sales trends, top 3 highest revenue generating pizzas in each category, bottom 5 lowest selling pizzas
 
-<img src="images/clustered_bar_chart.png" alt="Example Image" width="600"/>
+<img src="images/clustered_bar_chart.png" alt="clustered_bar_chart" width="600"/>
 
 Clustered Column chart: to analyze quarterly sales trends, and top 5 mostly ordered Pizzas.
 
-<img src="images/clustered_column_chart.png" alt="Example Image" width="400"/>
+<img src="images/clustered_column_chart.png" alt="clustered_column_chart" width="400"/>
 
 
 ##          Tools and Technologies:
@@ -91,10 +91,12 @@ Excel:  Utilized for data exploration, basic analysis, and initial visualization
 ## Files Included:
 
 
-‘Pizza_Sales_Report.xlsx’:  Excel file containing details on EDA, data transformations, and visualizations.
+‘Pizza_Sales_Report.xlsx’:[Download the Pizza Sales Report](reports/Pizza_Sales_Report.xlsx)
+ Excel file containing details on EDA, data transformations, and visualizations.
  		
          
- ‘Pizza Sales Analysis Report in Excel.pptx’: PowerPoint file to show summary of key findings and recommendations.
+ ‘Pizza Sales Analysis Report in Excel.pptx’:  [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
+ PowerPoint file to show summary of key findings and recommendations.
 
 ## Open the Files:
 
@@ -105,6 +107,6 @@ Review the ` Pizza Sales Analysis Report in Excel` for a summary of insights and
 
 ## Dashboard Preview:
 
-<img src="images/Dashboard_Preview.gif" alt="Example Image" width="800"/>
+<img src="images/Dashboard_Preview.gif" alt="Dashboard_Preview" width="800"/>
 
 
