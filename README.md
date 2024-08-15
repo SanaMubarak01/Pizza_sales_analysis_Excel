@@ -15,7 +15,7 @@ Following steps have been taken to complete the project:
 Imported the sales data into Excel, ensured it is clean, and structured for analysis.
                                     https://mavenanalytics.io/data-playground?page=6&pageSize=5
                                                              
-After downloading data set from the above link, I wrote queries in MySQL workbench and obtained the results, which I could later match with my Excel visualizations to authenticate the results. In order to view MYSQL queries, their results and the visulaizations in Excel [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
+After downloading data set from the above link, I wrote queries in MySQL workbench and obtained the results, which I could later match with my Excel visualizations to authenticate the results. In order to view MYSQL queries, their results and the visulaizations in Excel [Download the presentation](https://github.com/SanaMubarak01/Pizza_sales_analysis_Excel/blob/master/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
 
 ![data](images/data.png)
                                                              
