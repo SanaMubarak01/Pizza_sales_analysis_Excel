@@ -91,11 +91,11 @@ Excel:  Utilized for data exploration, basic analysis, and initial visualization
 ## Files Included:
 
 
-‘Pizza_Sales_Report.xlsx’:[Download the Pizza Sales Report](reports/Pizza_Sales_Report.xlsx)
+‘Pizza_Sales_Report.xlsx’:[Download the Pizza Sales Report](https://github.com/SanaMubarak01/Pizza_sales_analysis_Excel/blob/master/Pizza_Sales_Report.xlsx)
  Excel file containing details on EDA, data transformations, and visualizations.
  		
          
- ‘Pizza Sales Analysis Report in Excel.pptx’:  [Download the presentation](slides/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
+ ‘Pizza Sales Analysis Report in Excel.pptx’:  [Download the presentation](https://github.com/SanaMubarak01/Pizza_sales_analysis_Excel/blob/master/Pizza%20Sales%20Analysis%20Report%20in%20Excel.pptx)
  PowerPoint file to show summary of key findings and recommendations.
 
 ## Open the Files:
