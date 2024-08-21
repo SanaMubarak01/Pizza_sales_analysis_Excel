@@ -1,5 +1,7 @@
 # Pizza Sales Analysis Report
 
+<img src="images/Pizza_sales_report_Excel.jpg" alt="dashboard" width="800"/>
+
 Welcome to my Pizza Sales Analysis project, that show case my data analysis skills using Excel and MySQL. This project uncover insights and trends that can help in making informed business decisions for boosting business revenue. 
 
 ## Description
